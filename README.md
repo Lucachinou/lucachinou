@@ -2,7 +2,8 @@
 
 - **Minecraft** __plugin__ dev.
 - **Lua** dev.
-- **HTML***/***CSS** dev.
+- **Python** dev.
+- **HTML** */* **CSS** dev.
 - **Javascript** dev.
 
 **Contact: `lucachinou@duck.com`**
