@@ -1,11 +1,4 @@
-- Hello world!
-
-- **Minecraft** __plugin__ dev.
-- **Lua** dev.
-- **Python** dev.
-- **HTML** */* **CSS** dev.
-- **Javascript** dev.
-
+**Portfolio**: https://lucachinou.github.io
 **Contact: `lucachinou@duck.com`**
 
 
